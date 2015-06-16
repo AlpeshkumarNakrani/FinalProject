@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Christmas PhotoPuzzle/bin/dexedLibs/annotations-327c6cdcaeb6b1caa560d38a0bc7bf55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Christmas PhotoPuzzle/bin/dexedLibs/GoogleAdMobAdsSdk-4.3.1-b841aca925ad86f8a46eb0d99e0937cf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Christmas PhotoPuzzle/bin/dexedLibs/GoogleAdMobAdsSdk-4.3.1-3a8ea032e861d70919f716e04d24c11e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
